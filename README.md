@@ -7,7 +7,7 @@
   <br />
   <div align="center">
     <a href="https://frvgs.com">Website</a> |
-    <a href="https://discord.gg/">Discord</a> |
+    <a href="https://discord.gg/wHhg6Zgbsa">Discord</a> |
     <a href="https://forum.cfx.re/u/frvgs">Forum</a> |
     <a href="https://docs.frvgs.com/">Docs</a>
   </div>
@@ -45,4 +45,6 @@
 ### If you're already using esx_textui :
 You can then simply replace the `esx_textui/nui/style.css` file with the one from this repository.
 
+## 🛟 Support
 
+Join the [discord](https://discord.gg/wHhg6Zgbsa)  if you need support or custom UI design for your server.
