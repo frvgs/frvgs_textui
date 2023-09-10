@@ -23,9 +23,9 @@
 
 </div>
 
-[![Video Preview](https://cdn.frvgs.com/core_preview/textui_preview.png)](https://www.youtube.com/watch?v=o-M2wjaZfoo)
+[![Video Preview](https://cdn.frvgs.com/core_preview/textui_preview.png)](https://www.youtube.com/watch?v=1A6tiWjiMk8)
 
-[video-preview](https://youtube.com/watch?v=o-M2wjaZfoo)
+[![Video Preview](https://cdn.frvgs.com/youtube/preview_thumb.png)](https://www.youtube.com/watch?v=1A6tiWjiMk8)
 
 ## ✨ Features
 
